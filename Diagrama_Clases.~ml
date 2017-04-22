@@ -118,7 +118,7 @@
 <XPD:ATTR name="Left" type="integer">532</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">72</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">70</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">350</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">441</XPD:ATTR>
 <XPD:REF name="Model">PAG7iSpy4Ua934bhT6od5AAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="UAfUtUKWQ0WM74jW4+MFvgAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="T+awntp9sEu6cb0ymPO1BQAA">
@@ -255,7 +255,7 @@
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="TRyx/PbKa0yNq2qdcuAcnQAA">
 <XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">4</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">4 : clienteVO</XPD:ATTR>
 <XPD:REF name="Model">lK5kUG8Q20SAsom7eOynRgAA</XPD:REF>
 <XPD:REF name="HostEdge">ygDdbZeOx0WL+68YnZUPRQAA</XPD:REF>
 </XPD:OBJ>
@@ -365,7 +365,7 @@
 <XPD:REF name="Views[3]">tuRMJdL5ZUiBGzM/MrM9lAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="ParticipatingStimuli[3]" type="UMLStimulus" guid="lK5kUG8Q20SAsom7eOynRgAA">
-<XPD:ATTR name="Return" type="string">clienteDTO</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">clienteVO</XPD:ATTR>
 <XPD:REF name="Sender">SWHg6cwITkmWxZ/xp67Q8gAA</XPD:REF>
 <XPD:REF name="Receiver">MQxybfoH40ipkF9+hn7WgwAA</XPD:REF>
 <XPD:OBJ name="Action" type="UMLReturnAction" guid="Es/gCSSgdk2tvDVrlR6zdQAA">
@@ -392,7 +392,7 @@
 <XPD:REF name="Views[3]">C0uPQcRq80yUktor02C2FwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:ATTR name="#ParticipatingInstances" type="integer">5</XPD:ATTR>
+<XPD:ATTR name="#ParticipatingInstances" type="integer">6</XPD:ATTR>
 <XPD:OBJ name="ParticipatingInstances[0]" type="UMLObject" guid="Qys1mGZWNEmjGhuoeD/mGgAA">
 <XPD:ATTR name="Name" type="string">Actor</XPD:ATTR>
 <XPD:REF name="CollaborationInstanceSet">681orDd6Ik+t00rvGw0FgwAA</XPD:REF>
@@ -437,6 +437,10 @@
 <XPD:REF name="SendingStimuli[0]">teWz7b+xzkqhGFk+GFRJpgAA</XPD:REF>
 <XPD:ATTR name="#ReceivingStimuli" type="integer">1</XPD:ATTR>
 <XPD:REF name="ReceivingStimuli[0]">xDUnllni1k+XXgMrjNp+9wAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="ParticipatingInstances[5]" type="UMLObject" guid="nl80pwSADE+Brg+6HHbqBgAA">
+<XPD:ATTR name="Name" type="string">Object1</XPD:ATTR>
+<XPD:REF name="CollaborationInstanceSet">681orDd6Ik+t00rvGw0FgwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
