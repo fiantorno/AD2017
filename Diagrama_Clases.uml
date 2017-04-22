@@ -4971,7 +4971,7 @@
 <XPD:REF name="Associations[7]">rb/PzVg3Tk+TEsZn3KFbUwAA</XPD:REF>
 <XPD:REF name="Associations[8]">izyGThVQIUKufILN0Zn1LQAA</XPD:REF>
 <XPD:REF name="Associations[9]">8jAdwzoLwU6A5TKcGGMtLgAA</XPD:REF>
-<XPD:ATTR name="#Attributes" type="integer">2</XPD:ATTR>
+<XPD:ATTR name="#Attributes" type="integer">3</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="3gxw4H3tI0yAFgiz6m1uGwAA">
 <XPD:ATTR name="Name" type="string">Clientes</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
@@ -4982,6 +4982,10 @@
 <XPD:ATTR name="Name" type="string">Prendas</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">List&lt;Prendas&gt;</XPD:ATTR>
+<XPD:REF name="Owner">CwgqUnAA/k+cTJZHJl/zzAAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="/apy0klIBEa2Azp8WGo05gAA">
+<XPD:ATTR name="Name" type="string">prueba</XPD:ATTR>
 <XPD:REF name="Owner">CwgqUnAA/k+cTJZHJl/zzAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
