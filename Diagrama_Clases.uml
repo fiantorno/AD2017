@@ -2400,7 +2400,7 @@
 <XPD:ATTR name="Left" type="integer">1354</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">977</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">80</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">43</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">68</XPD:ATTR>
 <XPD:REF name="Model">nwX0fbCwJU2fd2s/kj42hQAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="Z/yKIQL8s0umy9MNS7rRFQAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="9dW83cbWMESYrhD7FIO3BAAA">
@@ -2428,7 +2428,7 @@
 <XPD:OBJ name="OwnedViews[40]" type="UMLGeneralizationView" guid="wXSVxy0TzEqhtTxuxqPG8gAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1400,977;1437,871</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1404,977;1438,871</XPD:ATTR>
 <XPD:REF name="Model">bxuDYKRfeUSIVAHOfIh9/QAA</XPD:REF>
 <XPD:REF name="Head">dQPBiHFXnEmeEL7nVmBP5QAA</XPD:REF>
 <XPD:REF name="Tail">fQoQz5sVr0qMRK5DDTmDWgAA</XPD:REF>
@@ -4810,7 +4810,7 @@
 <XPD:REF name="Views[1]">hf/+TfLIskKM3ClYmWuRkwAA</XPD:REF>
 <XPD:REF name="Views[2]">xAVNlvuXsUa6N/sovIaD+gAA</XPD:REF>
 <XPD:REF name="Views[3]">Zw8xTI18lkGyePWwiGmdBgAA</XPD:REF>
-<XPD:ATTR name="#Operations" type="integer">11</XPD:ATTR>
+<XPD:ATTR name="#Operations" type="integer">12</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="wdo8RXah8UecLWXay/EHhwAA">
 <XPD:ATTR name="Name" type="string">1_BuscarCliente</XPD:ATTR>
 <XPD:REF name="Owner">CwgqUnAA/k+cTJZHJl/zzAAA</XPD:REF>
@@ -4958,6 +4958,16 @@
 <XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="YnXgVTyOGk2v2EKSkQkErgAA">
 <XPD:ATTR name="Name" type="string">idPedido</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">pFxi3l3yQEOB3oEnat1afwAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="Operations[11]" type="UMLOperation" guid="i3e5G4S5kEegUBRbCOO1OwAA">
+<XPD:ATTR name="Name" type="string">1_AgregarCliente</XPD:ATTR>
+<XPD:REF name="Owner">CwgqUnAA/k+cTJZHJl/zzAAA</XPD:REF>
+<XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="ddlGhoQ5qEuBibhbLHBuZQAA">
+<XPD:ATTR name="Name" type="string">clienteVO</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">ClienteVO</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">i3e5G4S5kEegUBRbCOO1OwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:ATTR name="#Associations" type="integer">10</XPD:ATTR>
